@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="satheesh"/>
+    <listAttribute key="org.testng.eclipse.SUITE_TEST_LIST">
+        <listEntry value="C:\Users\sathe\eclipse-workspace\selenium 9am batch\satheesh\All Programs\testngbatch.xml"/>
+    </listAttribute>
+    <intAttribute key="org.testng.eclipse.TYPE" value="3"/>
+</launchConfiguration>
